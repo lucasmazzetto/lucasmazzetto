@@ -1,4 +1,4 @@
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmazz&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+![[](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmazz&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://komarev.com/ghpvc/?username=lucasmazz)
 
