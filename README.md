@@ -8,7 +8,7 @@ I have experience and a strong interest in research and development of projects 
 
 - 💻 Software Engineering
 - 🔧 Hardware Engineering
-- ✈️ Systems Development
+- 🚀 Systems Development
 - 🚗 Embedded Systems
 - ⚡ Electronics
 - 🤖 Robotics
