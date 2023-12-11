@@ -1,6 +1,6 @@
 ## 👋 Hello world! 
 
-**I am an electrical engineer actively seeking technical and professional challenges in engineering projects.**
+### I am an **electrical engineer** actively seeking technical and professional challenges in engineering projects.
 
 I have experience and a strong interest in research and development of projects related to embedded systems, robotics, computational systems, and digital electronics.
 
