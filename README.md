@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello world! My name is Lucas Mazzetto and I'm a Technology enthusiast. I'm a hardware and software engineer, passionate about science, computers, machines, and robots.
 
 <!--
 **lucasmazz/lucasmazz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
