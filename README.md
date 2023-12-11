@@ -6,15 +6,15 @@ I have experience and a strong interest in research and development of projects 
 
 ## 🛠️ Skills
 
-- 💻 Software Engineering
-- 🔧 Hardware Engineering
-- 🚀 Systems Development
-- 🚗 Embedded Systems
-- ⚡ Electronics
-- 🤖 Robotics
-- 👁️ Computer Vision
-- 📊 Data Science
-- 📉 Machine Learning
+💻 Software Engineering
+🔧 Hardware Engineering
+🚀 Systems Development
+🚗 Embedded Systems
+⚡ Electronics
+🤖 Robotics
+👁️ Computer Vision
+📊 Data Science
+📉 Machine Learning
 
 <!-- # 📝 Papers -->
 
