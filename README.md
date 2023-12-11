@@ -1,8 +1,9 @@
-#🤙 Hello world! 
+# 🤙 Hello world! 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasmazz&theme=transparent&layout=compact&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-#🛠️ Skills
+# 🛠️ Skills
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmazz&theme=transparent&hide=QMake)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **lucasmazz/lucasmazz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
