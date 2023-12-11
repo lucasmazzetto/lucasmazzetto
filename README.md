@@ -1,15 +1,26 @@
-# 🤙 Hello world! 
+# 👋 Hello world! 
 
+## 🚀 About
 
+My name is Lucas Mazzeto and I'm electrical engineer. I'm Actively seeking for technical and professional challenges in engineering projects. I also have experience and a strong interest in research and development related to embedded systems, mobile robotics, computational systems, and digital electronics.
 
-# 🛠️ Skills
+## 🛠️ Skills
 
+### - 💻 Software Engineering
+### - 🔌 Hardware Engineering
+### - ✈️ Systems Development
+### - 🚗 Embedded Systems
+### - ⚡ Electronics
+### - 🤖 Robotics
+### - 👁️ Computer Vision
+### - 📊 Data Science
+### - 📉 Machine Learning
 
 <!-- # 📝 Papers -->
 
 <!-- # 🏅 Achievements -->
 
-# 📈 Stats
+## 📈 Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasmazz&theme=transparent&layout=compact&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
