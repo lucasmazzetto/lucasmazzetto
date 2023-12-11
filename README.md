@@ -1,8 +1,8 @@
-# 👋 Hello world! 
+## 👋 Hello world! 
 
-## 🚀 About
+**Electrical engineer, actively seeking for technical and professional challenges in engineering projects.**
 
-My name is Lucas Mazzeto and I'm electrical engineer. I'm Actively seeking for technical and professional challenges in engineering projects. I also have experience and a strong interest in research and development related to embedded systems, mobile robotics, computational systems, and digital electronics.
+I have experience and a strong interest in research and development of projects related to embedded systems, robotics, computational systems, and digital electronics.
 
 ## 🛠️ Skills
 
