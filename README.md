@@ -1,10 +1,6 @@
-## Hello world! 
-
-### My name is **Lucas Mazzetto** and I'm a Technology enthusiast. 
-
-I'm a *hardware* and *software engineer*, passionate about science, computers, machines, and robots.
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasmazz&show_icons=true&theme=transparent)
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lucasmazz&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **lucasmazz/lucasmazz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
