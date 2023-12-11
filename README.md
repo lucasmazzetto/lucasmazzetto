@@ -23,11 +23,11 @@ I have experience and a strong interest in research and development of projects 
 ## 📈 Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=lucasmazz&theme=transparent&card_width=850)](https://git.io/streak-stats)
-<!-- 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasmazz&theme=transparent&layout=compact&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+ 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasmazz&theme=transparent&layout=compact&show_icons=true&card_width=850)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmazz&theme=transparent&hide=QMake)](https://github.com/anuraghazra/github-readme-stats)
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmazz&theme=transparent&hide=QMake&card_width=850)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **lucasmazz/lucasmazz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
