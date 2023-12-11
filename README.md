@@ -6,15 +6,15 @@ My name is Lucas Mazzeto and I'm electrical engineer. I'm Actively seeking for t
 
 ## 🛠️ Skills
 
-### - 💻 Software Engineering
-### - 🔌 Hardware Engineering
-### - ✈️ Systems Development
-### - 🚗 Embedded Systems
-### - ⚡ Electronics
-### - 🤖 Robotics
-### - 👁️ Computer Vision
-### - 📊 Data Science
-### - 📉 Machine Learning
+- 💻 Software Engineering
+- 🔌 Hardware Engineering
+- ✈️ Systems Development
+- 🚗 Embedded Systems
+- ⚡ Electronics
+- 🤖 Robotics
+- 👁️ Computer Vision
+- 📊 Data Science
+- 📉 Machine Learning
 
 <!-- # 📝 Papers -->
 
