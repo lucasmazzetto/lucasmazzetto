@@ -5,7 +5,6 @@
 I have experience and a strong interest in research and development of projects related to embedded systems, robotics, computational systems, and digital electronics.
 
 \
-\
 
 ## 🛠️ Skills
 
@@ -20,7 +19,6 @@ I have experience and a strong interest in research and development of projects 
 - 📉 Machine Learning
 
 \
-\
 
 ## 📝 Publications
 
@@ -28,7 +26,6 @@ I have experience and a strong interest in research and development of projects 
 
 <!-- # 🏅 Achievements -->
 
-\
 \
 
 ## 📈 Stats
