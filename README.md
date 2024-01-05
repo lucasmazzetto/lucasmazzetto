@@ -4,7 +4,6 @@
 
 I have experience and a strong interest in research and development of projects related to embedded systems, robotics, computational systems, and digital electronics.
 
-
 ## 🛠️ Skills
 
 - 💻 Software Engineering
@@ -17,13 +16,11 @@ I have experience and a strong interest in research and development of projects 
 - 📊 Data Science
 - 📉 Machine Learning
 
-
 ## 📝 Publications
 
 - L. F. R. Mazzetto and J. E. C. Castanho, "FPGA-based Accelerator for Convolutional Neural Network Application in Mobile Robotics," 2023 Latin American Robotics Symposium (LARS), 2023 Brazilian Symposium on Robotics (SBR), and 2023 Workshop on Robotics in Education (WRE), Salvador, Brazil, 2023, pp. 433-438, doi: 10.1109/LARS/SBR/WRE59448.2023.10333052.
 
 <!-- # 🏅 Achievements -->
-
 
 ## 📈 Stats
 
