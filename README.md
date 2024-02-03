@@ -2,7 +2,7 @@
 
 #### I am an **electrical engineer** actively seeking technical and professional challenges in engineering projects.
 
-I have experience and a strong interest in research and development of projects related to embedded systems, robotics, computational systems, and electronics.
+I have experience and a strong interest in research and development of projects related to electronics, embedded systems, machine learning, and robotics.
 
 ## 🛠️ Skills
 
