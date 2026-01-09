@@ -22,5 +22,5 @@ I have experience and a strong interest in research and development of projects 
 
 ## 📈 Stats
 
-![Stats](./profile/stats.svg)
-![Top Languages](./profile/top-langs.svg)
+<img src="./profile/stats.svg" width="850" alt="Stats" />
+<img src="./profile/top-langs.svg" width="850" alt="Top Languages" />
