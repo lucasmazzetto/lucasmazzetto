@@ -22,6 +22,5 @@ I have experience and a strong interest in research and development of projects 
 
 ## 📈 Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=lucasmazzetto&theme=transparent&card_width=850)](https://git.io/streak-stats)
- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmazzetto&theme=transparent&hide=QMake&layout=compact&card_width=850)](https://github.com/anuraghazra/github-readme-stats)
+![Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
